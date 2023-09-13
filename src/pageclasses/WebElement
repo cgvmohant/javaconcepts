@@ -1,0 +1,8 @@
+package pageclasses;
+
+public class WebElement {
+
+	String uname = "U2";
+	String password = "P2";
+
+}
